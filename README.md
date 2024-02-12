@@ -1,5 +1,6 @@
+<img align "right" alt="coding"  width="900" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <h1 align="center">Hi 👋, I'm Kolitha Malan</h1>
-<img align "right" alt="coding"  width="900" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21119026&label=Profile%20views&color=0e75b6&style=flat" alt="it21119026" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21119026" alt="it21119026" /></a> </p>
